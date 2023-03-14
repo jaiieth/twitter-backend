@@ -1,5 +1,5 @@
 import express, { Application, Request, Response } from "express";
-import { TwitterRoutes } from "./src/TwitterAPI";
+import { TwitterRoutes } from "./src";
 
 const app = express();
 app.use(express.json());
