@@ -1,4 +1,3 @@
-import { getUserProfileCodec } from "./interface";
 import {
   createTweet,
   createUser,
